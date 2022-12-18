@@ -1,0 +1,212 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5f7fa;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    font-family: Montserrat;
+}
+
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.side-bar {
+
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.avatar {
+    width: 370px;
+}
+
+.main-info {
+    padding-top: 108px;
+    padding-bottom: 107px;
+    padding-left: 89px;
+    padding-right: 89px;
+    text-align: center
+}
+
+.contacts-container {
+    margin-top: 57px;
+    margin-left: 41px;
+    margin-right: 41px;
+}
+
+.Contacts-Title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.contact-data {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #80858f;
+}
+
+.contacts-element {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.Tech-Skills-Title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.tech-skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 54px;
+}
+
+.tech-skills-element {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.tech-skills-item {
+    color: #a3a7ae;
+}
+
+.Soft-Skills-Title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.soft-skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 54px;
+}
+
+.soft-skills-element {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.soft-skills-item {
+    color: #a3a7ae;
+}
+
+.Junior-Front-End-Developer {
+
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.Ivan-Kartashov {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-bottom: 24px;
+}
+
+.about-me-main-info {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.info-container {
+    margin-bottom: 64px;
+}
+
+.container-title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 12px;
+    ;
+}
+
+.profession-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 14px;
+
+}
+
+.about-me-item {
+    padding-bottom: 50px;
+}
+
+.container-info {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+.html {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.img {
+    width: 100px;
+    height: 90px
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+#code {
+    margin-bottom: 20px;
+}
+
+.list {
+    text-align: center;
+    list-style-position: inside;
+}
